@@ -1,1 +1,1 @@
-ceci est le même fichier
+<<<<<<< HEAD
